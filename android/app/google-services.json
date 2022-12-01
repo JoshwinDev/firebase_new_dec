@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299495130175",
+    "project_id": "fir-ndz",
+    "storage_bucket": "fir-ndz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299495130175:android:af61b84452a128142be48a",
+        "android_client_info": {
+          "package_name": "in.fluttertrainer.my_task_firebase_june_ndz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299495130175-kikm9g5f4dndaqqjqucscupag2bdnlr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOCUL3sSqP57P6tu9JIOGBa7AEB4kpX_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299495130175-kikm9g5f4dndaqqjqucscupag2bdnlr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
